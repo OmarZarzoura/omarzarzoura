@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Omar M. Zarzoura is a Dubai-based Computer Systems Engineer, Technical Instructor, and AI Consultant. He holds a Bachelor of Engineering in Computer Systems Engineering from London South Bank University and is certified in Deep Learning from Stanford University.
 
-# Run and deploy your AI Studio app
+Omar specializes in bridging the gap between advanced systems engineering and specialized technical training. His technical expertise spans cutting-edge fields, including artificial intelligence agent development, deep learning frameworks, and Web3 smart contract programming.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/a0c39f40-4a55-4bad-a6bd-1e68446966dc
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+As an educator and consultant, he designs and implements robust technical curricula—such as cyber security programs for parent enterprise systems—and provides targeted mentoring to individuals mastering complex software architectures. Backed by strong analytical capabilities, world-class training, and a passion for engineering innovation, Omar builds intelligent, secure decentralized systems while empowering the next generation of technical professionals.
